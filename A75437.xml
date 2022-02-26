@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to the nevv motions or, A serious and briefe discussion of certaine motions now in question.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75437</idno>
+            <idno type="STC">Wing A3427</idno>
+            <idno type="STC">Thomason E205_4</idno>
+            <idno type="STC">ESTC R15235</idno>
+            <idno type="EEBO-CITATION">99859826</idno>
+            <idno type="PROQUEST">99859826</idno>
+            <idno type="VID">111925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111925)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E205[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to the nevv motions or, A serious and briefe discussion of certaine motions now in question.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111925:1"/>
+            <pb facs="tcp:111925:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE NEW MOTIONS: OR, A ſerious and briefe Diſcuſsion of certaine MOTIONS now in queſtion.</p>
+            <figure>
+               <figDesc>printer's device of Robert Bostock, featuring a boy with wings on one wrist, and in the other hand a weight (McKerrow 393)</figDesc>
+               <head>
+                  <q>MOLLIA CVM DVRIS</q>
+               </head>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Boſtook,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:111925:2"/>
+            <pb n="1" facs="tcp:111925:2"/>
+            <head>AN ANSWER TO THE New Motions.</head>
+            <div type="demand">
+               <head>The firſt Demand.</head>
+               <p>Whether the Lord Ieſus Chriſt hath by his laſt Will and Teſtament, given unto, and ſet in his Church ſufficient Ordinary Offices, with their Calling, Works, and Maintenance, for the Adminiſtration of his holy things; and for the ſufficient ordinary inſtruction, guidance, and ſervice of his Church, unto the end of the World, or no?</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg> Had rather have anſwered your Reaſons, than theſe your bare Interrogatories; yet, becauſe you have ſo propoſed them, I thought good thus briefly to runne over them, hoping that if you have the ſpirit of humility, you will ſubmit to the truth. To this firſt, therefore
+<pb n="2" facs="tcp:111925:3"/>I anſwer, That the <hi>Lord Ieſus Chriſt</hi> hath in his New Teſtament, inſtituted perpetuall <hi>Offices</hi> in his Church, and all their <hi>Callings, workes,</hi> and <hi>Maintenance:</hi> that is, The ſubſtance of all theſe, is there appointed per<g ref="char:EOLhyphen"/>petuall: but the appendant Circumſtances are vari<g ref="char:EOLhyphen"/>able, as time and perſons (in the Churches judge<g ref="char:EOLhyphen"/>ment) may beſt require. For the Tree doth ſtand when the leaves doe change; and a man is the ſame, though his apparrell be varied. Theſe outward fa<g ref="char:EOLhyphen"/>ſhions are ſo variable, that herein Nationall Churches may differ one from another: yea, the Apoſtles altered divers ſuch things themſelves: For firſt, They diſtributed the goods of the Church to the poore; and when land was ſold, the money was brought to their feet, and they diſtributed to every man according to his neceſſity, <hi>Act.</hi> 4.35. Yet afterwards, upon occaſion, it fell out that they layd this charge from themſelves upon <hi>Deacons, Act.</hi> 6. For ſo the poore bee cared for, it is not ſo materiall by whom it is done. Againe, They inſtitu<g ref="char:EOLhyphen"/>ted the Love-feaſts to be uſed with the Lords Supper, <hi>Act.</hi> 2.46. Yet S. <hi>Paul</hi> did againe abrogate them at <hi>Corinth.</hi> 1 <hi>Cor.</hi> 11. And for that which is in the beginning of that Chapter, that women ſhall come and pray in publick, is perpetuall; but that they ſhould come <hi>vailed,</hi> which the Apoſtle there urgeth as then fitting, is now no where thought neceſſary. Now then, the ſubſtance of <hi>Calling, Offices, Works,</hi> and <hi>Maintenance,</hi> of the Miniſtry remaining; the out<g ref="char:EOLhyphen"/>ward manner of theſe things may vary, ſo that, ac<g ref="char:EOLhyphen"/>cording to the Apoſtles rule, <hi>All things be done decent<g ref="char:EOLhyphen"/>ly and in order.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="demand">
+               <pb n="3" facs="tcp:111925:3"/>
+               <head>The ſecond Demand.</head>
+               <p>Whether the Offices of Paſtors, Teachers, Elders, Deacons, and Helpers, be thoſe very Offices appointed by Chriſt in his Teſtament as aforeſaid; Or, Whether the preſent Eccleſiaſticall Offices of Archbiſhops, Biſhops, Deanes, Sub-deanes, Prebendaries, Chancellours, Prieſts, Deacons (or halfe-Prieſts) Archdeacons, Commiſsaries, Officialls, Regiſters, Proctors, Apparitors, Parſons, Vicars, Curats, Stipendiaries, Vagrant-Preachers, Chaplaines or Houſe-Prieſts, Canons, Petty Canons, Chanters, Quoriſters, Organiſts, Church-wardens, Sides-men, and the reſt, now had in theſe Cathedrall and Paro<g ref="char:EOLhyphen"/>chiall Aſſemblies, be thoſe Offices appointed by Chriſt in his Teſtament, or not?</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>IT being granted, That Chriſt hath inſtituted per<g ref="char:EOLhyphen"/>petuall Offices; then you aske, whether your five<g ref="char:EOLhyphen"/>fold Orders of <hi>Paſtors, Teachers, Elders, Deacons,</hi> and <hi>Helpers;</hi> or our <hi>Archbiſhops, Biſhops, Deanes, &amp;c.</hi> be thoſe?</p>
+                  <p>For yours firſt, I ſay, that <hi>Paſtors</hi> and <hi>Teachers</hi> are in<g ref="char:EOLhyphen"/>deed inſtituted by Chriſt in his Church perpetuall; but they are no more yours than ours, we have them as well as you; for, to teach and feed the flock, is the
+<pb n="4" facs="tcp:111925:4"/>work of our <hi>Miniſters,</hi> and the end of their <hi>Cal<g ref="char:EOLhyphen"/>ling.</hi> Herein you differ from us, that you make a neceſſary and perpetuall difference of theſe two, as though they were diſtinct <hi>Offices;</hi> whereas the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Epeſ.</hi> 4. reckons them onely as <hi>Gifts,</hi> hee hath <hi>given gifts unto men;</hi> and couples thoſe two together, not diſ-junctively as the reſt; <hi>Some Paſtors and Teachers.</hi> One Miniſter may and ought to doe both theſe, <hi>Exhort</hi> and <hi>Teach,</hi> as is uſed in our Church. And the practice of the Apoſtles was ſo, as ap<g ref="char:EOLhyphen"/>peares in all their Sermons written in the <hi>Acts.</hi> In<g ref="char:EOLhyphen"/>deed where the Auditory doth onely require <hi>in<g ref="char:EOLhyphen"/>ſtruction,</hi> there <hi>exhorting</hi> may be omitted; as uſe the <hi>Divinity Lectures</hi> in Schooles: and ſuch an one was <hi>Origen.</hi> But otherwiſe the ſame <hi>Miniſter</hi> is to doe both by the very Apoſtles practice. And were it not to make up your <hi>Ruling-Presbytery</hi> with variety, you your ſelves would have no more.</p>
+                  <p>And for your third <hi>Office</hi> of <hi>Elders,</hi> if rightly un<g ref="char:EOLhyphen"/>derſtood, it was founded in the Scriptures; but not as you take it: for, you make it a <hi>third</hi> degree and office from the former, and that it ſhould ſig<g ref="char:EOLhyphen"/>nifie a <hi>Lay-Governour,</hi> who ſhould not meddle with the Word or Sacraments, but onely ſit among the <hi>Paſtors</hi> and <hi>Doctors</hi> to Govern; Such an one hath no foundation in the Word of God: But rightly underſtood, it hath; and is the name of a <hi>Miniſter</hi> of <hi>Ieſus Chriſt,</hi> in the New Teſtament. For he is cal<g ref="char:EOLhyphen"/>led a <hi>Paſtor</hi> and <hi>Teacher,</hi> for the duties of his <hi>Mi<g ref="char:EOLhyphen"/>niſtery;</hi> and <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> for his dignitie in the Church; We tranſlate it <hi>Elders,</hi> for difference ſake, becauſe in Engliſh <hi>Aaron</hi> and his Stock are tran<g ref="char:EOLhyphen"/>ſlated,
+<pb n="5" facs="tcp:111925:4"/>
+                     <hi>Prieſts;</hi> Otherwiſe <hi>Prieſt</hi> is the fitteſt Tran<g ref="char:EOLhyphen"/>ſlation for <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, according to the very letters, which <hi>Latine, Italian, French,</hi> and others have imi<g ref="char:EOLhyphen"/>tated.</p>
+                  <p>Shew us now then any where <hi>Lay-Priests</hi> founded in the New Teſtament, as we can ſhew your <hi>Presby<g ref="char:EOLhyphen"/>ters, Prieſts, Elders</hi> (call them what you will, for they all ſpeak the ſame order) being every where taken for the <hi>Miniſters</hi> of the Word. <hi>Act.</hi> 10. Such <hi>Prieſts</hi> or <hi>Elders,</hi> S. <hi>Paul</hi> ſent for, and telleth them of their charge <hi>which the Holy Ghoſt had ſet them to, to feed the ſlock;</hi> ſuch he teacheth <hi>Titus</hi> to or<g ref="char:EOLhyphen"/>daine Chap. 2. and calleth them there alſo by ano<g ref="char:EOLhyphen"/>ther name: Such doth S. <hi>Peter</hi> admoniſh, 1. <hi>Pet.</hi> 5.1. <hi>The Prosbyters</hi> or <hi>Elders amongſt you, I exhort, which am a Co-Presbyter, &amp;c.</hi> We may not make ſo many <hi>Offices</hi> of the <hi>Miniſters,</hi> as he hath ſeverall Names; for then ſhall wee make more than you have or would make; ſeeing he is named not onely <hi>Paſtor, Doctor, Elder</hi> or <hi>Prieſt,</hi> but alſo <hi>Biſhop, Overſeer, Steward, Meſſenger, Embaſſador, Deacon,</hi> and ſuch like.</p>
+                  <p>Thus hitherto you have not found three diſtinct Offices of <hi>Paſtor, Doctor, Eldor,</hi> but three Names of one and the ſame <hi>Office,</hi> which is the Miniſter of the Word.</p>
+                  <p>For <hi>Deacons,</hi> their office of <hi>diſtributing to the poore,</hi> is not ſo neceſſary for all times (for which only uſe you would have them perpetuall) for as much as they were wanting in the time of Chriſt, for then <hi>Iudas, one of the twelve, bare the bagge, and gave to the poore.</hi> Afterwards the <hi>Apoſtles</hi> themſelves did this,
+<pb n="6" facs="tcp:111925:5"/>when <hi>thoſe that ſold their lands for the poores releife, brought it to their feet, and they diſtributed as every one had need,</hi> Acts 4.35. But when the labours of prea<g ref="char:EOLhyphen"/>ching, and the multitude of poore encreaſed, the <hi>A<g ref="char:EOLhyphen"/>poſtles</hi> laid that care upon <hi>ſeaven choſen men,</hi> Act. 6. So did they alſo ordaine in other Churches, for yet the Magiſtrate was enemy to the faith, and would not either help the <hi>Miniſter,</hi> or <hi>ſuccour</hi> the poore, be<g ref="char:EOLhyphen"/>cauſe they were Chriſtians. Therefore during the time of perſecution, there was eſpeciall need of thoſe men: ſuch an one was S. <hi>Laurence</hi> the broild Martyr at <hi>Rome</hi> by the Heathen Perſecutors: But when the Magiſtrate changed, and by good lawes provided for the Miniſters <hi>Maintenance,</hi> and the releife of the poore, then was there no need at all of this office; no more than there is of <hi>Widowes,</hi> who were likewiſe then in uſe, but now are ceaſed in all Churches; albeit there be rules for their election in the Scrip<g ref="char:EOLhyphen"/>tures, as there is for <hi>Deacons,</hi> 1 Tim. 5.9, 10. And therefore this is no perpetuall Office.</p>
+                  <p>Your <hi>Helpers,</hi> the laſt office that you reckon up, can helpe you but little. They are but once named in the Scriptures (as I take it) 2 Cor. 12.28. and there not called <hi>Helpers,</hi> but <hi>Helpings, Opitulationes:</hi> But if (by Metonimy) that be all one, yet cannot they be ſeverall from the former, and perpetuall; for if they helped <hi>per Dona ſanationum,</hi> by gift of hea<g ref="char:EOLhyphen"/>ling, then they are ceaſed: or if by diſtribution, then were they <hi>Widowes</hi> or <hi>Deacons,</hi> and no ſeverall Offices.</p>
+                  <p>And thus of your <hi>five Officers;</hi> the three firſt are but one Office of the <hi>Miniſter;</hi> and the two later
+<pb n="7" facs="tcp:111925:5"/>
+                     <hi>Temporary:</hi> ſo farre are you ſhort of your <hi>five diſtinct</hi> and <hi>perpetuall Offices.</hi>
+                  </p>
+                  <p>The ſecond part of your Interrogatory is con<g ref="char:EOLhyphen"/>cerning the Eccleſiaſticall State of <hi>Archbiſhops, Bi<g ref="char:EOLhyphen"/>ſhops, Deanes, Sub-deanes,</hi> &amp;c.</p>
+                  <p>In this enumeration you ſtudy to be exact, and to reckon up every thread; by which curious diligence you have thruſt in a number that are no Eccleſiaſticall Callings at all; and againe, reckoned up ſome who are rather yours than ours, <hi>Stipendiaries, Vagrant-Preachers, Houſe-Prieſts,</hi> and the like.</p>
+                  <p>But to anſwer to that which is materiall in your Catalogue; I ſay, that in the new Teſtament is foun<g ref="char:EOLhyphen"/>ded a <hi>Miniſtery,</hi> which may differ in their <hi>Degrees,</hi> and may differ in their <hi>Maintenance;</hi> to which two places may be referred all the Titles here ſet downe which are Eccleſiaſticall.</p>
+                  <p>For the firſt, though the Miniſtery it ſelfe be one, yet may it admit divers degrees. In the old Teſta<g ref="char:EOLhyphen"/>ment, <hi>Aaron</hi> and his ſucceſſion was above the other <hi>Prieſts;</hi> and the <hi>Prieſts</hi> above the <hi>Levites:</hi> Among the <hi>Prophets</hi> ſome ruled, as <hi>Samuel;</hi> ſome obeyed, as the <hi>Children of the Prophets;</hi> and the morall hereof of <hi>Ruling</hi> and <hi>Obeying</hi> is not <hi>Ceremoniall.</hi> In the New Teſtament, Chriſt made ſome Apoſtles, as the <hi>Twelve;</hi> ſome <hi>Diſciples,</hi> as the <hi>ſeaventy two.</hi> And the Apoſtle S. <hi>Paul</hi> teacheth us, that Chriſt his Church muſt be like a Naturall Body, wherein ſome are Eyes, ſome Hands, ſome Feet.</p>
+                  <p>The Degrees that I meane are <hi>Biſhops, Prieſts,</hi> and <hi>Deacons.</hi>
+                  </p>
+                  <p>For <hi>Prieſts</hi> or <hi>Elders</hi> you can make no queſtion,
+<pb n="8" facs="tcp:111925:6"/>they are <hi>in terminis</hi> frequent in the Text. For <hi>Deacons</hi> no doubt thoſe <hi>ſeaven</hi> Act. 6. did with the other charge aſſume alſo the Miniſtery from the Apoſtles Ordination. For firſt they had the impoſition of the Apoſtles hands with prayer. Secondly, <hi>Stephen,</hi> one of them, preached and did miracles. Thirdly, <hi>Philip</hi> preached, and (that which is Miniſteriall) <hi>baptized.</hi> Fourthly, the Apoſtle willeth that the <hi>Deacons</hi> hold <hi>Myſterium fidei,</hi> the myſtery of faith, 1 Tim. 3.9. which ſignifieth the ſubſtance of the Goſpel prea<g ref="char:EOLhyphen"/>ched, in S. <hi>Pauls</hi> manner of ſpeaking. Fifthly, the Apoſtle adds, that he that diſchargeth his <hi>Deaconſhip</hi> well, <hi>getteth to himſelfe a good degree.</hi> And what can be more reaſonable, than that there ſhould be an or<g ref="char:EOLhyphen"/>derly Initiation or Probatiorſhip into the Miniſtery. <hi>Eliſha</hi> held water to <hi>Elias</hi> his hands before he was Prophet in his ſtead. The Apoſtles were witneſſes of Chriſts Temptations before they were <hi>ſent.</hi> S. <hi>Paul</hi> had <hi>Barnabas,</hi> and S. <hi>Iohn</hi> had <hi>Mark,</hi> for their Miniſter, Act. 13.5. even <hi>to the work.</hi> Such were thoſe Bre<g ref="char:EOLhyphen"/>thren or ſome of them that went with S. <hi>Peter</hi> to <hi>Cornelius,</hi> to whom he commanded, that they ſhould be <hi>baptized,</hi> Act. 10. Such attended on S. <hi>Paul</hi> to <hi>Corinth,</hi> and baptized, for he himſelfe <hi>baptized</hi> but <hi>one houſehold,</hi> 1 Cor. 1. theſe you ſcornefully terme <hi>halfe-Prieſts.</hi>
+                  </p>
+                  <p>For the ſuperiority of <hi>Biſhops,</hi> not only the Apo<g ref="char:EOLhyphen"/>ſtles had it, but they alſo whom they conſtituted <hi>Bi<g ref="char:EOLhyphen"/>ſhops,</hi> as <hi>Timothy</hi> at <hi>Epheſus,</hi> and <hi>Titus</hi> in <hi>Creet,</hi> to re<g ref="char:EOLhyphen"/>dreſſe things amiſſe, and to ordaine Miniſters. Yea ſtill this Authority was propagated and continued in the Churches, Apoc. 1. and 3. <hi>to the Angel of the
+<pb n="9" facs="tcp:111925:6"/>Churches.</hi> There were many <hi>Elders</hi> or <hi>Miniſters</hi> in every Church; <hi>Antipas, Nicholas,</hi> and thoſe who hated and preached againſt his doctrine; yet <hi>one</hi> is the <hi>Angel</hi> there ſtill: As more largely it appeareth at <hi>Epheſus,</hi> where ſurely was more than <hi>one</hi> that were <hi>Miniſters,</hi> yet but <hi>one Angel.</hi> Yea S. <hi>Paul</hi> alloweth <hi>Timothy</hi> a <hi>Court Eccleſiaſticall, (viz.)</hi> to <hi>receive accuſa<g ref="char:EOLhyphen"/>tions,</hi> and <hi>examine Witneſſes;</hi> for thus he ſaith, 1 Tim. 5.19. <hi>Receive no accuſation againſt an Elder, under two or three witneſſes.</hi> The like to <hi>Titus,</hi> 3.19. <hi>Avoyd an heritique</hi> (out of the Church) <hi>after once or twice ſolemne admonition.</hi>
+                  </p>
+                  <p>Now then can you deny to Superiours and Gover<g ref="char:EOLhyphen"/>nours their neceſſary Deputies, ſervants, and ſubſti<g ref="char:EOLhyphen"/>tutes? nay theſe are neceſſary even to the meaneſt, though they be no Eccleſiaſticall perſons, nor have to do in the Miniſtery. For you know the <hi>Gibeonites</hi> ſerved for ſome neceſſary uſe in the Tabernacle, to <hi>draw water,</hi> and to <hi>cleave wood,</hi> Joſ. 9.23. But if any of theſe play <hi>Gehazi,</hi> it is <hi>Eliſha's</hi> charge to mark him with <hi>Leaproſie.</hi> All antiquity ſpeaks of theſe three degrees of the Miniſtery; the <hi>Canons</hi> called the <hi>Apoſtles,</hi> the <hi>Antient Fathers,</hi> and the beſt <hi>Councells</hi> doe declare and juſtifie them.</p>
+                  <p>The other part, the inequality of <hi>Maintenance</hi> is a ſequell of the former; for greater degree requires greater ſupportance. And the Scripture ſayes the ſame thing. S. <hi>Paul</hi> 1 Cor. 9.7. reſembles the Mi<g ref="char:EOLhyphen"/>niſters <hi>Maintenance</hi> to the ſtipend of <hi>Warfare,</hi> where every man hath wages according to his place. And verſe 13. to thoſe that wrought about the Altar, where ſome had prerogative above the reſt. Yea the
+<pb n="10" facs="tcp:111925:7"/>ſame <hi>Apoſtle</hi> doth tell <hi>Timothy</hi> ſo much, 1 <hi>Tim.</hi> 5.17. <hi>The Elders that rule well, are worthy of double honour.</hi> Where he meaneth by double honour, larger Main<g ref="char:EOLhyphen"/>tenance, as (beſides the conſent of the beſt Interpre<g ref="char:EOLhyphen"/>ters) the Apoſtle himſelfe explaines it to be meant of Maintenance, bringing the ſame place which be<g ref="char:EOLhyphen"/>fore 1 <hi>Cor.</hi> 9. hee cited for the Miniſters Mainte<g ref="char:EOLhyphen"/>nance, out of <hi>Moſes</hi> ſaying, <hi>Thou ſhalt not muzzle the Oxe that treadeth out the Corne.</hi> And which Chriſt to the ſame purpoſe proverbially uſed in the Goſpell, namely, <hi>the Labourer is worthy of his hire.</hi> All which is plaine, that double honour is interpreted double Maintenance, by the Illative, <hi>for the Scripture ſaith.</hi> Thus then you may ſee that our Eccleſiaſticall State, in diverſity of Degrees and Maintenance, is more conſonant to Gods word, than your device of ſundry names, without perſons or Perpetuities.</p>
+               </div>
+            </div>
+            <div type="demand">
+               <head>The third Demand.</head>
+               <p>Whether the calling and entrance into theſe Eccle<g ref="char:EOLhyphen"/>ſiaſticall Offices laſt aforeſaid, their Administration and Maintenance now had, and retained in the Church of England, bee the manner of Calling, Adminiſtration, and Maintenance which Chriſt hath appointed for the Offices of his Church above named?</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>IN this Third you demand, whether our Calling into the Miniſtery, &amp;c. bee thoſe which Chriſt
+<pb n="11" facs="tcp:111925:7"/>appointed. It is eaſie to demand much; you ſhould rather have ſhewed your particular diſlikes.</p>
+                  <p>But I anſwer, that they are. Our Calling hath that Ordination which the Apoſtles uſed, and S. <hi>Paul</hi> appointed <hi>Timothy</hi> and <hi>Titus</hi> to uſe, <hi>viz. by the im<g ref="char:EOLhyphen"/>poſition of the Biſhops hands, and of the other Miniſters that are preſent at that action;</hi> for <hi>they</hi> alſo lay on their hands <hi>juxta manum Epiſcopi,</hi> by the <hi>Biſhops</hi> hand, according to the <hi>antient Canons.</hi> And before this, we have the election and approbation of the people, or of the cheife of them, whereby wee are com<g ref="char:EOLhyphen"/>mended to the <hi>Biſhop,</hi> as you may know by the Law of <hi>Patrons,</hi> and of <hi>Iuſtices,</hi> and of <hi>Neighbour-Mi<g ref="char:EOLhyphen"/>niſters,</hi> whoſe commendations are neceſſary before any be made Miniſter, or admitted to any place in the Church.</p>
+                  <p>For our Adminiſtration, it is of <hi>Gods Word,</hi> and of the <hi>two holy Sacraments,</hi> and of <hi>publick Prayer;</hi> all which the Miniſter ought to doe. Other Admi<g ref="char:EOLhyphen"/>niſtration have we none, unleſſe you meane <hi>Marrying</hi> and <hi>Burying,</hi> which perhaps you miſlike that the Mi<g ref="char:EOLhyphen"/>niſter ſhould doe them; but why I know not. For <hi>Marrying,</hi> God himſelfe firſt acted it, and brought <hi>Eve</hi> to <hi>Adam, Gen.</hi> 2. And Chriſt ſaid after of all Marriages, <hi>Quos Deus conjunxit, &amp;c. Thoſe whom God hath joyned together,</hi> &amp;c. Who then fitter to doe this in the place of God, and in his name, than he that is his Meſſenger, and in his ſtead?</p>
+                  <p>For <hi>Buriall,</hi> it is the field and <hi>Seminary</hi> of the Re<g ref="char:EOLhyphen"/>ſurrection, and who fitter for <hi>ſowing</hi> than hee that is Gods <hi>Sower?</hi>
+                  </p>
+                  <p>And for our <hi>Maintenance,</hi> it is by <hi>Tithes</hi> better
+<pb n="12" facs="tcp:111925:8"/>than yours by <hi>Almes:</hi> for it was ſo <hi>before the Law,</hi> and <hi>under the Law,</hi> and <hi>under the Goſpel,</hi> as ſoone as the Magiſtrate was <hi>Chriſtian.</hi> And your Almes onely uſed in time of Perſecution, when no better could be had. For where the Miniſtery ſhall have no Maintenance, but what muſt bee at the mercy of his Auditory, how apt is hee to ſmooth, hu<g ref="char:EOLhyphen"/>mour, and ſubſcribe to ſuch (and wave their darling and pleaſing ſinnes) in whoſe power it is to deny him ſuſtenance? were there no other reaſon for the independency of his Maintenance.</p>
+               </div>
+            </div>
+            <div type="demand">
+               <head>The fourth Demand.</head>
+               <p>Whether the Sacraments, being Seales of righteouſ<g ref="char:EOLhyphen"/>neſſe, which is by Faith, may bee adminiſtred to any other than to the faithfull and their ſeed; or in any other manner and miniſtery, than is preſcribed by Ie<g ref="char:EOLhyphen"/>ſus Chriſt? And whether they be not otherwiſe admi<g ref="char:EOLhyphen"/>niſtred in the Cathedrall and Parochiall Aſſemblies at this day in England, or no?</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>THe Sacraments, the Seales of righteouſneſſe, are onely to bee given to the faithfull and to their ſeed, (or to ſuch as ſeeme to be faithfull, as <hi>Iudas, Simon Magus, Demas,</hi> and ſuch like) and to no other are they given in the Church of <hi>England;</hi> for if any bee profane, un-holy, or notoriouſly
+<pb n="13" facs="tcp:111925:8"/>wicked, the Miniſter is by Law to repell them. Neither are they given with us in any other Mi<g ref="char:EOLhyphen"/>niſtery, than Chriſt hath appointed; unleſſe you you meane the <hi>Baptizing</hi> by <hi>Midwives,</hi> which in our Church is not approved, nor now any where practiſed.</p>
+                  <p>Neither are they given in any other manner, unleſſe you meane hereby externall and variable circumſtances, as <hi>kneeling</hi> at the <hi>Euchariſt,</hi> and ſuch like, as I thinke you doe. And then I anſwer you, to receive it <hi>kneeling,</hi> is moſt fitting and decent; ſeeing it is an Action of more humility and de<g ref="char:EOLhyphen"/>votion, than ſtanding or ſitting is. At the firſt they received it ſitting, or rather lying and lea<g ref="char:EOLhyphen"/>ning, for Saint <hi>Iohn</hi> then leaned on <hi>Ieſus</hi> breaſt, as their manner was then to eat: But this is no more perpetuall or neceſſary, than to receive it <hi>at night,</hi> or <hi>after Supper,</hi> for theſe were then uſed according to the preſent occaſion. Even as many circumſtances were uſed in the <hi>Paſſeover,</hi> at the firſt inſtitution in <hi>Aegypt,</hi> which ſhould not bee perpetuall, as the ſprinkling the doore with blood, their not going out of their houſes that night, their eating of it ſtanding, with loynes girt and ſtaves in their hands, all which as mutable ceaſed in the land of promiſe.</p>
+               </div>
+            </div>
+            <div type="demand">
+               <head>The fifth Demand.</head>
+               <p>Whether the Booke of Common-Prayer with the Feaſts, Faſts, and Holy-daies, ſtinted Prayers, and Lyturgie preſcribed therein and uſed in theſe Aſſemblies, be the
+<pb n="14" facs="tcp:111925:9"/>true worſhip of God commanded in his word, or the device and invention of man for Gods worſhip and ſervice, or no?</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>YOu aske, whether the Book of Common-Prayer be Gods worſhip, or the Invention of man. It was thus compoſed by men, godly and learned men, and many of them <hi>Martyrs</hi> of <hi>Chriſt.</hi>
+                  </p>
+                  <p>The doctrine thereof, is according to Gods Word; a book as fit, and full of edification, in the Prayers and Adminiſtration of Sacraments, as poſ<g ref="char:EOLhyphen"/>ſibly can be deviſed or made. The things that you here diſlike in it, are Feaſts, Faſts, and Holy-dayes, ſtinted Prayers, and Lyturgie.</p>
+                  <p>In our Feaſts and Holy-dayes, firſt obſerve that wee have none to <hi>Legend Saints,</hi> but <hi>Chriſt,</hi> his <hi>Apoſtles,</hi> the <hi>bleſſed Virgin,</hi> and Saint <hi>Iohn Baptiſt.</hi>
+                  </p>
+                  <p>Secondly, that wee worſhip no Saints in thoſe dayes, but praiſe God for them, who made them profitable to his Church.</p>
+                  <p>Thirdly, it is lawfull for the Church to appoint ſuch dayes to glorifie God in. For in time of the <hi>Macchabees,</hi> the Church appointed an Anniverſary Feaſt of Dedication of the Altar, after they had rid the Temple from <hi>Antiochus</hi> his profanation, 1. <hi>Mac.</hi> 4.59. And our Saviour Chriſt himſelfe ob<g ref="char:EOLhyphen"/>ſerved it, <hi>Iohn</hi> 10.11.</p>
+                  <p>Fourthly, that the obſervation of ſuch times is
+<pb n="15" facs="tcp:111925:9"/>very ancient and generall; for in the firſt Generall <hi>Councell</hi> of <hi>Nice,</hi> there was great queſtion a<g ref="char:EOLhyphen"/>bout <hi>the day</hi> whereon <hi>Eaſter</hi> ſhould bee kept, but not a man, either in the <hi>Latine</hi> or <hi>Greek Church,</hi> but then thought it meet to be kept: ſo farre was the Church then from your nicety.</p>
+                  <p>In the Prayers and Lyturgie, you here finde no other fault, but that they are ſtinted and ſet Prayers; for you would have no Book at all, nor any forme of celebrating Holy things; nor any ſet Prayers, but all voluntary, at every Paſtors diſcretion. If this fancy ſhould take place, not onely every Miniſter would vary from himſelfe, but one would agree with another, like <hi>Germans Lips.</hi> Nothing is more needfull in holy things than conformity, ſo the forme be good. But to ſpeak onely of ſtinted and ſet Prayers (which fault you find.)</p>
+                  <p>Firſt, in the Temple, the booke of <hi>Pſalmes</hi> was their <hi>Pſalter,</hi> or ſet Prayers; for they were appoin<g ref="char:EOLhyphen"/>ted to bee uſed continually, and are ſet to certaine orders of Prieſts, and to certaine times and inſtru<g ref="char:EOLhyphen"/>ments, for daily uſe, as the <hi>Hebrew Inſcriptions</hi> of all the <hi>Pſalmes</hi> doe teſtifie.</p>
+                  <p>Secondly, the Prieſts had a ſolemn ſet forme of Prayer which they uſed when they ſolemnly bleſſed the people; the words are preſcribed, <hi>Num.</hi> 6.23, 24, 25. <hi>The Lord bleſſe thee, and keepe thee, the Lord, &amp;c.</hi>
+                  </p>
+                  <p>Thirdly, they had a ſet forme of Prayer in the wilderneſſe, which they uſed when the Tabernacle re<g ref="char:EOLhyphen"/>moved, <hi>Exurgat Deus, Let God ariſe,</hi> &amp;c. And ano<g ref="char:EOLhyphen"/>ther when the Tabernacle was pitched, <hi>Let God re<g ref="char:EOLhyphen"/>turne,</hi> &amp;c. <hi>Num.</hi> 10.35.</p>
+                  <pb n="16" facs="tcp:111925:10"/>
+                  <p>Fourthly, they had <hi>Pſalmes</hi> to ſing at the Paſſeover, the 113, 114, 115, 116, 117, 118. accounted together to be a great grace unto the Paſſeover, which our Saviour Chriſt obſerved and ſung with his diſciples, <hi>Matth.</hi> 26.30.</p>
+                  <p>Fifthly, to conclude, prayers are not worſe becauſe they are ſtinted and in ſet words, for Chriſt prayed thrice in one night, uſing the ſame words, <hi>Matth.</hi> 26.44. And taught his Diſciples the ſet forme called the <hi>Lords Prayer;</hi> ſaying, <hi>Say thus.</hi>
+                  </p>
+                  <p>For any exceptions, you now take or take up againſt any materiall paſſages or Prayers in the book it ſelfe, they are ſuch as have often been anſwered by <hi>D. Boyes, Hutton,</hi> and others, long ſince.</p>
+               </div>
+            </div>
+            <div type="demand">
+               <head>The ſixth Demand.</head>
+               <p>Whether all Churches and people (without exception) bee not bound in religion to receive and ſubmit unto that Miniſtery, Worſhip, and Order, which Chriſt, as Lord and King, hath given and appointed to his Church: and whether any may receive, and joyne to any other, deviſed by man, to the ſervice of God: and con<g ref="char:EOLhyphen"/>ſequently, whether they that ioyne to the preſent Eccle<g ref="char:EOLhyphen"/>ſiaſticall Miniſtery, Worſhip, and Order of theſe Cathe<g ref="char:EOLhyphen"/>drall and Pariſhionall Aſſemblies, can be aſſured by the Word of God, that they joyne to the former, ordained by Chriſt, and not to the later, invented by man, for the worſhip and ſervice of God.</p>
+               <div type="answer">
+                  <pb n="17" facs="tcp:111925:10"/>
+                  <head>Anſwer.</head>
+                  <p>YOu aske, Whether people muſt ſubmit to thoſe things onely, which are inſtituted by Chriſt; or, whether they may ſubmit to the <hi>inventions</hi> of men. In matters of ſubſtance and worſhip of God, I ſay, only to Chriſts inſtitution; but in outward circum<g ref="char:EOLhyphen"/>ſtances, the Magiſtrate hath authority to ordaine for comelineſſe; and herein not to obey him is the ſinne of diſobedience: As to appoint with what acti<g ref="char:EOLhyphen"/>on wee ſhall receive the Euchariſt, in what kind of bread, in what kind of wine, at what time of the yeer, and how often, in what apparrell it ſhould bee mi<g ref="char:EOLhyphen"/>niſtred, or ſuch like: But he may not alter matters ſubſtantiall; and if he ſhould, therein we ought not to ſubmit to any ſuch command, but we ought ra<g ref="char:EOLhyphen"/>ther to undergoe the penalty inflicted on the deniall: as to adore the bread, with as much worſhip as we doe Chriſt; to communicate in one kinde one<g ref="char:EOLhyphen"/>ly, and ſuch like, which Papiſts have diviſed. Now then conſequently ſeeing wee keep the ſubſtance of Gods true worſhip according to his Word, and in all outward things are a great deale nearer the rules of comely order and decency, than you are: They that joyne themſelves to us, may be aſſured that they joyne to a Church, founded after Gods Word, and ſo can they not be, that joyne themſelves to you; ſeeing you ſet up unto your ſelves a new Syna<g ref="char:EOLhyphen"/>gogue: And thus your <hi>Demands</hi> are ſatisfied.</p>
+                  <p>Now then, to come to a finall iſſue in this con<g ref="char:EOLhyphen"/>troverſie; If any of theſe faults bee in our Church,
+<pb n="18" facs="tcp:111925:11"/>or more of them than you can prove (for I would yeeld you an <hi>Epha,</hi> where you cannot prove an <hi>Omer</hi>) yet have you no juſt cauſe of your ſeparation from our Congregations, ſo unnaturally to deſpiſe the wombe that bare you, and the paps that gave you ſuck: yea to ſeparate from all the Churches in <hi>Chriſtendome,</hi> to a new handfull at <hi>Amſterdam:</hi> witneſſes againſt you are all thoſe who diſlike many things, as you doe, and yet communicate with us. Who albeit by their raſh diſlikings, they have been acceſſory to your fall, yet herein they forſake you, their conſciences will not ſuffer them to fall utterly from the Church: wher<g ref="char:EOLhyphen"/>in both you and they have confeſſed that our doctrine is true, and according to Gods word. And herein I will convince you by as many arguments, as you have propoſed <hi>Demands.</hi>
+                  </p>
+                  <p n="1">1 Firſt, the Jewiſh Church in the time of the Prophets was more corrupt than you can affirme of ours: of which the Prophets doe affirme, that <hi>there was no whole part from the bead to the feet;</hi> that <hi>the faithfull City was become an harlot;</hi> that they were <hi>princes of Sodome, and people of Gomorra;</hi> yet the ſame Prophets never forlook the fellowſhip of the Church, but ſtill reproving their faults, did com<g ref="char:EOLhyphen"/>municate with them in the Temple ſacrifices and prayers; as witneſſe the hiſtory and writings of the ſame Prophets.</p>
+                  <p n="2">2 The Church in our Saviour Chriſts time was worſe than that, poſſeſſed and ruled by <hi>Scribes, Pha<g ref="char:EOLhyphen"/>riſes,</hi> and <hi>Saducees,</hi> of which Chriſt ſaid, that <hi>the blinde led the blinde,</hi> that they <hi>taught for doctrines the precepts of men,</hi> that they <hi>made the word of God of no
+<pb n="19" facs="tcp:111925:11"/>effect by their traditions,</hi> that they <hi>made the houſe of Prayer a denne of theeves,</hi> that they <hi>justified themſelves in their owne righteouſneſſe,</hi> that they <hi>devoured widowes houſes under pretence of long prayers;</hi> and therefore many <hi>Woes</hi> were pronounced againſt them, <hi>Mat.</hi> 23. Notwithſtanding all this, our Saviour Chriſt, before he took upon him his publick-Miniſtery, was preſen<g ref="char:EOLhyphen"/>ted in <hi>this Temple,</hi> before <hi>theſe</hi> Prieſts, and <hi>there</hi> many offered their oblation before them, <hi>Luk.</hi> 2.22. <hi>There,</hi> and before <hi>them,</hi> and amongſt <hi>this</hi> people did Chriſt appeare with his Parents when he was twelve yeares old, at the Feaſt of the <hi>Paſſeover;</hi> then <hi>in the Temple</hi> he aſſociated with the Doctors, <hi>bearing them, and asking them queſtions,</hi> and affording them his anſwers <hi>Luk.</hi> 2.4.42.</p>
+                  <p n="3">3 After that he took upon him his publick Mini<g ref="char:EOLhyphen"/>ſtery, he uſually repaired to the Temple, at every of theſe three ſolemne Feaſts, and there taught daily, and openly in the Temple, <hi>Ioh.</hi> 2.13. <hi>Ioh.</hi> 18.22. he uſually taught and healed in the Jewes Sinagogue amongſt the people, <hi>Luk.</hi> 4.15.16. he ever ſought to purge Gods houſe, but not to leave it, for <hi>the zeale of Gods houſe had eaten him up, Ioh.</hi> 2.17. but the hatred of Gods Church and houſe doth drive you from it.</p>
+                  <p n="4">4 And as he uſed himſelfe to communicate with the viſible Church, ſo he taught his to doe, <hi>Mat.</hi> 23. ſaith he, <hi>The Scribes and Phariſes ſit in Moſes chaire, therefore heare them, and doe as they bid you, but after their works doe not, for they ſay and doe not:</hi> and when he purged Leapers, as <hi>Mat.</hi> 8.4. he ſent them to ſhew themſelves to <hi>theſe</hi> Prieſts, to be judged by <hi>them,</hi> and there <hi>with them</hi> to offer the <hi>gift which Moſes com<g ref="char:EOLhyphen"/>manded
+<pb n="20" facs="tcp:111925:12"/>for a teſtimony unto them;</hi> he taught his how they ſhould offer the legall offerings aright, <hi>before theſe Prieſts,</hi> Mat. 5.23, 24. <hi>If thou bring thy gift to the Altar, and there remembreſt that thy brother hath ought againſt thee, leave there thine offering before the Altar, and goe thy way; firſt bee reconciled to thy brother, and then come offer thy gift.</hi>
+                  </p>
+                  <p n="5">5 And (leſt you ſhould ſay, that this was till Chriſt had finiſhed all things, and abrogated the Law) as Chriſt did himſelfe, and taught others to doe, ſo did his Apoſtles after the Paſſion and Reſur<g ref="char:EOLhyphen"/>rection, for <hi>Act.</hi> 2.46. <hi>They continued daily with one accord in the Temple:</hi> and <hi>Acts</hi> 3.1. Peter <hi>and</hi> Iohn <hi>went up together into the Temple, at the ninth houre of Prayer</hi> (that is, at our three of the clock after noone) which was the time of the <hi>Evening Sacrifice:</hi> and <hi>Acts</hi> 3.20. <hi>As they were bidden of God, they entred into the Temple,</hi> and this <hi>they did daily, Acts</hi> 5.42. Yea, Saint <hi>Paul</hi> more particularly <hi>in the Temple purified himſelfe with other brethren,</hi> and they prepared their offerings, to bee offered for every one of them be<g ref="char:EOLhyphen"/>fore the Prieſts, <hi>Acts</hi> 21.26.</p>
+                  <p n="6">6 Yea (leſt you ſhould ſay, the Jewiſh Church had any prerogative) the Apoſtles accounted thoſe Chriſtian Churches holy, and to be communicated withall, which yet were unperfect, defective, and reproveable in many things: Saint <hi>Paul</hi> highly com<g ref="char:EOLhyphen"/>mended the Church of <hi>Corinth,</hi> 1. <hi>Cor.</hi> 1. and yet re<g ref="char:EOLhyphen"/>proved them in that Epiſtle of many faults, both in doctrine, and manners, as carnall and ſchiſmaticall; ſome holding of <hi>Paul,</hi> ſome of <hi>Cephas,</hi> ſome of <hi>Apollo,</hi> Chap. 3. For <hi>ſuffering the inceſtuous man amongſt
+<pb n="21" facs="tcp:111925:12"/>them,</hi> Chap. 5. For <hi>going to Law one againſt another under the infidels:</hi> and for accounting <hi>fornication</hi> ſmall or no ſinne, Chap. 6. For <hi>eating (with offence to to the weak) things offered to Idols,</hi> Chap. 8.9, 10. For abuſing the publick Aſſemblies, and the <hi>Lords Supper,</hi> Chap. 11. For abuſing the <hi>ſpirituall gifts to often<g ref="char:EOLhyphen"/>tation, not to edifying,</hi> Chap. 12, 13, 14. For denying the Reſurrection, Chap. 15. For <hi>ſome of them ſaid there was no Reſurrection,</hi> verſ. 12. And yet notwith<g ref="char:EOLhyphen"/>ſtanding, before all theſe were amended, yea, before they were by him reproved; in the firſt words of that Epiſtle, hee giveth them the Title of <hi>Gods Church,</hi> of <hi>Saints by Calling,</hi> and ſuch as were <hi>called to the fellowſhip of Chriſt:</hi> to teach us how to think of Militant Churches upon Earth. The like may be obſerved of the Church of <hi>Galatia,</hi> and divers others.</p>
+                  <p n="7">7 Laſtly, the doctrine of the Apoſtles is, That the Church indeed, is the Pillar and ground of truth, becauſe God will lead it into all neceſſary truth; but yet that it may erre in matters of leſſer weight; as it is exemplified by Churches, to which they wroſe their Epiſtles. That the Church is ſpotted in her ſelfe, but <hi>without ſpot or wrinkle</hi> by acceptance in Chriſt: <hi>Epheſ.</hi> 5. and ſee every particular man and member of the Church, that hee is partly fleſh, and partly ſpirit, unperfect in himſelfe, but perfect by the Grace and merits of Chriſt: So Saint <hi>Iohn</hi> in the <hi>Apocalyps, ſeeth the ſeven Churches of</hi> Aſia <hi>in Chriſts preſence, as ſeven golden Candleſticks,</hi> and the <hi>ſeven Angels thereof in Chriſts right hand as ſeven Starres,</hi> chap. 1. yet <hi>againſt</hi> every one of them, both Churches and Angels, he <hi>hath ſomewhat</hi> in the Epiſtles, which
+<pb n="22" facs="tcp:111925:13"/>he wrote unto them, Chap. 2.3. to teach us to eſteem men and Churches, not by their own imperfections, but according to that grace, and eſtate which they have obtained by the mercy of Chriſt.</p>
+                  <p>Wherefore I wiſh you beware in time, <hi>take heed leſt the Serpent which ſeduced</hi> Eve, <hi>doe alſo de<g ref="char:EOLhyphen"/>ceive you;</hi> even whilſt you thinke with her to <hi>be<g ref="char:EOLhyphen"/>come like Gods:</hi> conſider that this your Covenant of Separation may be a ſinne of preſumption: <hi>Remem<g ref="char:EOLhyphen"/>ber Abraham your Father, and</hi> Satah <hi>that bare you,</hi> ſo that with better conſideration, you may returne to your Mother the Church againe, and keepe with her the <hi>unity of the Spirit, in the bond of peace;</hi> which God grant for Chriſt his ſake, <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
